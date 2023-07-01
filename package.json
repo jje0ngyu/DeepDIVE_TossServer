@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "yarn": "^1.22.19"
+  },
+
+  "proxy": "http://localhost:8080"
+}

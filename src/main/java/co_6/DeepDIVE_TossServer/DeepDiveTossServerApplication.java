@@ -1,4 +1,4 @@
-package com6.DeepDIVE_TossServer;
+package co_6.DeepDIVE_TossServer;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
